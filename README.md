@@ -12,7 +12,7 @@
 EnableLoopback.exe 是一个用于捕获UWP应用（win8/8.1/10应用商店内的软件）
 FiddlerCap.exe (单独用来捕获流量的软件)
 ToE.dll ( Fillder请求一键生成易语言代码)
-FiddlerCheck.dll(检查最新汉化版。)
+<s>FiddlerCheck.dll(不提供更新检查)</s>
  ~~~
 ## 使用异常
 + 如出现启动出错,请安装`.net framework 4.6.1`
