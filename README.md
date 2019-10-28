@@ -9,9 +9,9 @@
  + Fiddler ScriptEditor 编辑器绿化。
 ## 插件说明
 ~~~
-EnableLoopback.exe 是一个用于捕获UWP应用（win8/8.1/10应用商店内的软件）
+EnableLoopback.exe 用于捕获UWP应用（win8/8.1/10应用商店内的软件）
 FiddlerCap.exe (单独用来捕获流量的软件)
-ToE.dll ( Fillder请求一键生成易语言代码)
+ToE.dll (Fillder请求一键生成易语言代码)
 FiddlerCheck.dll(已不提供更新检查)
  ~~~
 ## 使用异常
@@ -19,3 +19,4 @@ FiddlerCheck.dll(已不提供更新检查)
 ## 闲言碎语
 + 如果你熟悉使用方法后也推荐尝试英文版。
 + 最后感谢各位土豪的打赏支持！
++ 欢迎Star关注。
