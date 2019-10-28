@@ -1,0 +1,9 @@
+使用方法：
+
+将 
+   CertMaker.dll
+   BCMakeCert.dll
+
+复制到 Fiddler 根目录。
+
+注意：可能会出现无法抓包的情况。

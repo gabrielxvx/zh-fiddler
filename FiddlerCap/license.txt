@@ -1,0 +1,11 @@
+By using this software and any updates to it, you indicate your acceptance of these terms. If you do not accept these terms, do not install or use the software.
+
+The software (FiddlerCap) and any updates to it are provided "as is" and you bear the risk of using it. In no event shall Telerik be liable for any consequential, special, incidental or indirect damages of any kind arising out of the delivery, performance or use of this software. This software was written with care, but no one warrants that the software is error-free. Your sole remedy for any failure or any form of damage caused by this software is a full refund of the license fee we have received from you, which in all cases is $0.
+
+You may privately distribute copies of the software to others, so long as this disclaimer accompanies said distribution, you do not represent the software as your own work, and you do not alter the software or the installation package in any way. You may not host or redistribute this software publicly (e.g. from a public Internet site); instead point users to http://fiddlercap.com/ to download. You may not decompile or otherwise reverse-engineer any part of the software, except and only to the extent that such actions are expressly allowed by applicable law notwithstanding this restriction.
+
+EXPORT RESTRICTIONS: The software is subject to United States export laws and regulations. You must comply with all domestic and international export laws and regulations that apply to software. These laws include restrictions on destinations, end users and end use. 
+
+USE RESTRICTIONS: You warrant that your use of this software is legal and does not violate any law or regulation to which you are subject.
+
+FiddlerCap(tm) is ©2015 Telerik. All rights reserved. See https://fiddler2.com/r/?id=credits for more information.

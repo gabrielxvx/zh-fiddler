@@ -1,0 +1,6 @@
+HTTP/1.1 200 OK
+FiddlerTemplate: True
+Date: Fri, 25 Jan 2013 16:49:29 GMT
+Content-Length: 51
+
+This is a simple Fiddler-returned <B>HTML</B> page.
