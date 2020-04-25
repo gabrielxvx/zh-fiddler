@@ -1,4 +1,0 @@
-new-version:5.0.20192.25092
-old-version:5.0.20192.25091
-zh-new-version:1.0.20191028
-zh-old-version:1.0.20190615
